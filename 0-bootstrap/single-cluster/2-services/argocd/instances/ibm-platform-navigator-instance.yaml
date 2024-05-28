@@ -27,7 +27,7 @@ spec:
             spec:
               license:
                 accept: true
-                license: L-RJON-C7QG3S
+                license:  L-YBXJ-ADJNSM
               mqDashboard: true
               version: "2023.2.1"
               replicas: 2
